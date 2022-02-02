@@ -1,0 +1,2 @@
+I've changed the proxies to better working proxies.
+You have to set the proxy type to SOCKS5 NOT HTTP!

@@ -1,0 +1,42 @@
+FOR MORE CRACKING RELATED STUFF TAKE A LOOK AT OUR DISCORD 
+
+Telegram Channel: @Devillogs
+Discord (NEW): https://discord.gg/T723bWGBbQ
+
+Cups#1869 ON DISCORD                                
+
+-------------------------------------------------------------
+
+HOW TO USE OPENBULLET
+
+Configs:
+
+1. Download a config
+2. Head to openbullet folder
+3. Open the configs folder
+4. Put all your downloaded configs into the folder
+5. Run openbullet application
+
+Wordlist:
+1. Head to wordlists 
+2. Click on add
+3. Click on the folder icon and choose your combo/data
+4. Click on Accept, done
+
+Proxies.
+1. Head to proxies
+2. Click on Import
+3. Click on the folder icon
+4. Find and choose your proxies
+5. Change the type to socks5
+6. Click on Accept
+
+Runner:
+1. Head to Runner
+2. Click on new
+3. Click right there (see picture)
+4. Select CFG, type in the searchbar whatever your config is called and choose it
+5. Select List, find your combo and choose it
+6. Set bots to 100-200
+7. Set prox: from (DEF) to (ON)
+8. You good to go
